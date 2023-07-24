@@ -1,0 +1,157 @@
+.section1 {
+/* width: Fill (1,440px); */
+height: 704.53px;
+padding: 80px;
+gap: 80px;
+display: flex;
+
+}
+
+.landingCol1 {
+    width: 50%;
+    height: 524px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    }
+
+.landingCol1Top{
+display: flex;
+flex-direction: column;
+gap: 32px;
+
+}
+.section1Title{
+font-family: Roboto;
+font-size: 72px;
+font-weight: 800;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+display: flex;
+}
+
+.section1Paragraph{
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.buttonsParentDiv{
+    display: flex;
+    flex-direction: row;
+    grid-column-gap: 20px;
+}
+.signUp{
+width: 239px;
+height: 64px;
+padding: 20px 24px 20px 24px;
+border-radius: 8px;
+border: 2px;
+background: #EA580C;
+color: #FFFFFF;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.5px;
+text-align: left;
+
+}
+
+.viewDemoParent{
+    width: 150px;
+    height: 56px;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.viewDemo{
+
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.5px;
+padding: 16px 8px 16px 8px;
+text-align: left;
+color: #2563EB;
+background: white;
+border: none;
+}
+
+.bottonDivTitle{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 135px;
+height: 44px
+
+}
+
+.buttonDivIcons{
+    gap: 48px;
+    display: flex;
+}
+.imageBottomIcon{
+    width: 33.24748992919922px;
+    height: 31.99999237060547px;
+}
+.landingCol1Bottom{
+width: 575.4px;
+height: 44px;
+gap: 48px;
+display: flex;
+}
+
+.landingCol2{
+    width: 50%;
+height: 544.5323486328125px;
+display: flex;
+}
+
+.imagelandingCol21{
+    width: 270.3426818847656px;
+    height: 339.9999694824219px;
+    top: 80px;
+    left: 1089.66px;
+    position: absolute;
+
+    }
+
+    .imagelandingCol22{
+        width: 306.60333251953125px;
+        height: 345.5324401855469px;
+        top: 278.99989318847656px;
+        left: 720px;
+        position: absolute;
+
+  
+    }
+
+    .imagelandingCol23{
+        width: 235px;
+        height: 228px;
+        top: 80px;
+        left: 874.999755859375px;
+        position: absolute;
+        gap: 16px;
+        z-index: 1     
+    }
+
+    .imagelandingCol24{
+        width: 159px;
+        height: 128px;
+        top: 465px;
+        left: 1073.999755859375px;
+        position: absolute;        
+    }
